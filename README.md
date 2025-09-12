@@ -33,7 +33,7 @@ The project demonstrates **service decomposition, inter-service communication, c
 - **Database**  
   - MongoDB Atlas for distributed and scalable data storage.  
 ---
----
+
 
 ## 🛠️ Tech Stack
 
